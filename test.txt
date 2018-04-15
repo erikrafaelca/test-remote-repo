@@ -1,2 +1,3 @@
 My first text into my file
-
+My 2nbd line has been added.
+---------------------------
